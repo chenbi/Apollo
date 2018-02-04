@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BLS_GCO>
+	<OFS>
+		<TOF>10</TOF>
+		<TOV>3.23</TOV>
+		<TRP>53.20</TRP>
+		<TOP>0</TOP>
+		<TRO>7</TRO>
+		<OF>
+			<OId>9b414e82-8164-4cc0-adcc-1ff8875552e3</OId>
+			<SId>e64e975e-88ff-4fa6-ab87-2cd1d2d6fece</SId>
+			<OC>20</OC>
+			<SCo>75236</SCo>
+			<SD>Fusion razor (5 + 1 ) 1 un</SD>
+			<OV>1.00</OV>
+			<CS>$</CS>
+			<BN>Gillette</BN>
+			<BQ>1</BQ>
+			<ID>True</ID>
+			<IC>False</IC>
+			<IF>False</IF>
+			<IM>True</IM>
+			<IP>False</IP>
+			<IPt>False</IPt>
+			<PU>http://dev.apollo.sap.com/Apollo.Images/Casino/Products/66x66/d5a51685-a583-4c14-9d6b-cf85aaa1bac2.jpg
+			</PU>
+			<SC>1</SC>
+			<SU></SU>
+			<PC>1</PC>
+			<PF>SHAVING                                           </PF>
+			<EXP>9/28/2012 12:57:54 PM</EXP>
+			<ISL>False</ISL>
+		</OF>
+		<OF>
+			<OId>ed6e7cad-c443-486d-9044-4ea71314adaa</OId>
+			<SId>e64e975e-88ff-4fa6-ab87-2cd1d2d6fece</SId>
+			<OC>16</OC>
+			<SCo>75236</SCo>
+			<SD>Canada Dry Ginger Ale Diet 2 lt</SD>
+			<OV>0.50</OV>
+			<CS>$</CS>
+			<BN>Canada Dry</BN>
+			<BQ>1</BQ>
+			<ID>True</ID>
+			<IC>False</IC>
+			<IF>False</IF>
+			<IM>True</IM>
+			<IP>False</IP>
+			<IPt>False</IPt>
+			<PU>http://dev.apollo.sap.com/Apollo.Images/Casino/Products/66x66/4c15e902-c80b-48fa-9a03-c796fd042095.jpg
+			</PU>
+			<SC>1</SC>
+			<SU></SU>
+			<PC>1</PC>
+			<PF>SODA POP                                          </PF>
+			<EXP>9/28/2012 12:57:54 PM</EXP>
+			<ISL>False</ISL>
+		</OF>
+		<OF>
+			<OId>57201676-bff4-43de-9ff6-4f361b0ca03a</OId>
+			<SId>e64e975e-88ff-4fa6-ab87-2cd1d2d6fece</SId>
+			<OC>4</OC>
+			<SCo>75236</SCo>
+			<SD>15% off Pizza (Thin crust parisian) 482 gr</SD>
+			<OV>1.20</OV>
+			<CS>$</CS>
+			<BN>McCain</BN>
+			<BQ>1</BQ>
+			<ID>True</ID>
+			<IC>False</IC>
+			<IF>False</IF>
+			<IM>True</IM>
+			<IP>True</IP>
+			<IPt>False</IPt>
+			<PU>http://dev.apollo.sap.com/Apollo.Images/Casino/Products/66x66/8f366cb6-8df7-4a34-91b3-14195ce4b990.jpg
+			</PU>
+			<SC>1</SC>
+			<SU></SU>
+			<PC>1</PC>
+			<PF>FROZEN PIZZAS                                     </PF>
+			<EXP>9/28/2012 12:57:54 PM</EXP>
+			<ISL>False</ISL>
+		</OF>
+		<OF>
+			<OId>65e8aebc-511d-446b-8ac0-587219f4bc1a</OId>
+			<SId>e64e975e-88ff-4fa6-ab87-2cd1d2d6fece</SId>
+			<OC>12</OC>
+			<SCo>75236</SCo>
+			<SD>5% off New England Coffee French Vanilla Blend Medium (Ground)
+			</SD>
+			<OV>0.13</OV>
+			<CS>$</CS>
+			<BN>Starbucks Coffee</BN>
+			<BQ>1</BQ>
+			<ID>True</ID>
+			<IC>False</IC>
+			<IF>False</IF>
+			<IM>True</IM>
+			<IP>True</IP>
+			<IPt>False</IPt>
+			<PU>http://dev.apollo.sap.com/Apollo.Images/Casino/Products/66x66/9130faa9-f872-4892-9564-b331b874c45e.jpg
+			</PU>
+			<SC>1</SC>
+			<SU></SU>
+			<PC>1</PC>
+			<PF>COFFEES &amp; DECAFS                                  </PF>
+			<EXP>9/28/2012 12:57:54 PM</EXP>
+			<ISL>False</ISL>
+		</OF>
+		<OF>
+			<OId>48c14473-aacf-4f99-893f-73bb905cb778</OId>
+			<SId>e64e975e-88ff-4fa6-ab87-2cd1d2d6fece</SId>
+			<OC>14</OC>
+			<SCo>75236</SCo>
+			<SD>Canada Dry Ginger Ale 2 lt</SD>
+			<OV>0.50</OV>
+			<CS>$</CS>
+			<BN>Canada Dry</BN>
+			<BQ>1</BQ>
+			<ID>True</ID>
+			<IC>False</IC>
+			<IF>False</IF>
+			<IM>True</IM>
+			<IP>False</IP>
+			<IPt>False</IPt>
+			<PU>http://dev.apollo.sap.com/Apollo.Images/Casino/Products/66x66/dc7bd999-5463-4210-90e2-c57da7c7ee95.jpg
+			</PU>
+			<SC>1</SC>
+			<SU></SU>
+			<PC>1</PC>
+			<PF>SODA POP                                          </PF>
+			<EXP>9/28/2012 12:57:54 PM</EXP>
+			<ISL>False</ISL>
+		</OF>
+		<OF>
+			<OId>7063ce2d-18d0-4acb-a964-7c1d1f76766d</OId>
+			<SId>e64e975e-88ff-4fa6-ab87-2cd1d2d6fece</SId>
+			<OC>6</OC>
+			<SCo>75236</SCo>
+			<SD>15% off Frozen pizza (sausage-thin crust) 482 gr</SD>
+			<OV>1.20</OV>
+			<CS>$</CS>
+			<BN>McCain</BN>
+			<BQ>1</BQ>
+			<ID>True</ID>
+			<IC>False</IC>
+			<IF>False</IF>
+			<IM>True</IM>
+			<IP>True</IP>
+			<IPt>False</IPt>
+			<PU>http://dev.apollo.sap.com/Apollo.Images/Casino/Products/66x66/d1500c97-cc94-4dee-b35a-6df1fbb44d8e.jpg
+			</PU>
+			<SC>1</SC>
+			<SU></SU>
+			<PC>1</PC>
+			<PF>FROZEN PIZZAS                                     </PF>
+			<EXP>9/28/2012 12:57:54 PM</EXP>
+			<ISL>False</ISL>
+		</OF>
+		<OF>
+			<OId>e009e80a-9820-4a1d-8b52-af2279103cea</OId>
+			<SId>e64e975e-88ff-4fa6-ab87-2cd1d2d6fece</SId>
+			<OC>3</OC>
+			<SCo>75236</SCo>
+			<SD>20% off Refrigerated pudding (choc.) 6x113 gr</SD>
+			<OV>0.54</OV>
+			<CS>$</CS>
+			<BN>Yoplait</BN>
+			<BQ>1</BQ>
+			<ID>True</ID>
+			<IC>False</IC>
+			<IF>False</IF>
+			<IM>True</IM>
+			<IP>True</IP>
+			<IPt>False</IPt>
+			<PU>http://dev.apollo.sap.com/Apollo.Images/Casino/Products/66x66/e7f15a1c-1d58-4248-a1db-3adf566a2c0d.jpg
+			</PU>
+			<SC>1</SC>
+			<SU></SU>
+			<PC>1</PC>
+			<PF>ULTRA-FRESH DESERTS                               </PF>
+			<EXP>9/28/2012 12:57:54 PM</EXP>
+			<ISL>False</ISL>
+		</OF>
+		<OF>
+			<OId>1d0d4297-4683-4c2f-bcf4-b903558a3aff</OId>
+			<SId>e64e975e-88ff-4fa6-ab87-2cd1d2d6fece</SId>
+			<OC>23</OC>
+			<SCo>75236</SCo>
+			<SD>ULTRA Laundry Detergent (Biodegradable - Delicate ) 1,9l</SD>
+			<OV>1.00</OV>
+			<CS>$</CS>
+			<BN>DANONE</BN>
+			<BQ>1</BQ>
+			<ID>True</ID>
+			<IC>False</IC>
+			<IF>False</IF>
+			<IM>False</IM>
+			<IP>False</IP>
+			<IPt>False</IPt>
+			<PU>http://dev.apollo.sap.com/Apollo.Images/Casino/Products/66x66/15adfe00-5f19-4a85-9b75-2b0017fcb8b7.jpg
+			</PU>
+			<SC>1</SC>
+			<SU></SU>
+			<PC>1</PC>
+			<PF>LAUNDRY                                           </PF>
+			<EXP>9/28/2012 12:57:54 PM</EXP>
+			<ISL>False</ISL>
+		</OF>
+		<OF>
+			<OId>7cb1a19c-9dd4-49fe-8c74-f584fc580a4b</OId>
+			<SId>e64e975e-88ff-4fa6-ab87-2cd1d2d6fece</SId>
+			<OC>9</OC>
+			<SCo>75236</SCo>
+			<SD>Buy 2 get 1 free Jasmine Rice 900 gr</SD>
+			<OV>1.00</OV>
+			<CS>$</CS>
+			<BN>DANONE</BN>
+			<BQ>3</BQ>
+			<ID>False</ID>
+			<IC>False</IC>
+			<IF>True</IF>
+			<IM>True</IM>
+			<IP>False</IP>
+			<IPt>False</IPt>
+			<PU>http://dev.apollo.sap.com/Apollo.Images/Casino/Products/66x66/d7bb978d-902e-4366-9e56-4925626d3f76.jpg
+			</PU>
+			<SC>1</SC>
+			<SU></SU>
+			<PC>1</PC>
+			<PF>LEGUMES-RICE-CEREALS                              </PF>
+			<EXP>9/28/2012 12:57:54 PM</EXP>
+			<ISL>False</ISL>
+		</OF>
+		<OF>
+			<OId>97a1e01e-c4fa-4248-9ba4-fc4a833ece46</OId>
+			<SId>e64e975e-88ff-4fa6-ab87-2cd1d2d6fece</SId>
+			<OC>13</OC>
+			<SCo>75236</SCo>
+			<SD>5% off Starbucks VIA Ready Brew Instant Coffee Colombia Medium -
+				3 ct</SD>
+			<OV>0.13</OV>
+			<CS>$</CS>
+			<BN>Starbucks Coffee</BN>
+			<BQ>1</BQ>
+			<ID>True</ID>
+			<IC>False</IC>
+			<IF>False</IF>
+			<IM>True</IM>
+			<IP>True</IP>
+			<IPt>False</IPt>
+			<PU>http://dev.apollo.sap.com/Apollo.Images/Casino/Products/66x66/f41f4963-f69f-4ae7-a2a4-d213317e2adf.jpg
+			</PU>
+			<SC>1</SC>
+			<SU></SU>
+			<PC>1</PC>
+			<PF>COFFEES &amp; DECAFS                                  </PF>
+			<EXP>9/28/2012 12:57:54 PM</EXP>
+			<ISL>False</ISL>
+		</OF>
+	</OFS>
+	<RC>0</RC>
+</BLS_GCO>

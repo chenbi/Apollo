@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BLS_GSPC>
+  <CTS>
+    <CT>
+      <CN>Breakfast Groceries</CN>
+      <CId>f2777741-67ad-4ed2-bc26-1903594eaed8</CId>
+      <CC>11</CC>
+      <PN>http://dev.apollo.sap.com/Apollo.Images/Casino/Categories/66x66/categories_TN_LEpicerie-Sucree_Ptit-Dej.jpg</PN>
+      <PC>28</PC>
+    </CT>
+    <CT>
+      <CN>Dairy</CN>
+      <CId>30d72389-83e9-423f-8a19-42e344898157</CId>
+      <CC>11</CC>
+      <PN>http://dev.apollo.sap.com/Apollo.Images/Casino/Categories/66x66/categories_TN_Le-Frais_Cremerie--Oeufs.jpg</PN>
+      <PC>10</PC>
+    </CT>
+    <CT>
+      <CN>Drinks</CN>
+      <CId>4e4c9958-755a-4c55-985a-6484989a3425</CId>
+      <CC>22</CC>
+      <PN>http://dev.apollo.sap.com/Apollo.Images/Casino/Categories/66x66/categories_TN_Les-Boissons_Sodas--Limonades.jpg</PN>
+      <PC>18</PC>
+    </CT>
+    <CT>
+      <CN>Frozen Foods</CN>
+      <CId>0b83afc4-d356-45e3-ac79-47a39c3acdb1</CId>
+      <CC>11</CC>
+      <PN>http://dev.apollo.sap.com/Apollo.Images/Casino/Categories/66x66/categories_TN_Le-Surgele_Legumes-Frites--Aromates.jpg</PN>
+      <PC>8</PC>
+    </CT>
+    <CT>
+      <CN>Grocery Staples</CN>
+      <CId>6e895108-1c2d-4a9f-aee3-9bf645daf889</CId>
+      <CC>11</CC>
+      <PN>http://dev.apollo.sap.com/Apollo.Images/Casino/Categories/66x66/categories_TN_LEpicerie-Salee_Pates-Purees--Legumes-secs.jpg</PN>
+      <PC>11</PC>
+    </CT>
+    <CT>
+      <CN>Health &amp; Beauty</CN>
+      <CId>52c8479b-3266-4b97-87a9-22d577cf5dcb</CId>
+      <CC>22</CC>
+      <PN>http://dev.apollo.sap.com/Apollo.Images/Casino/Categories/66x66/categories_TN_Beaute--Soins_Pour-elle--Le-Bien-etre.jpg</PN>
+      <PC>25</PC>
+    </CT>
+    <CT>
+      <CN>My Home</CN>
+      <CId>dced2f93-f27b-4513-9e9f-39a9e8c2a115</CId>
+      <CC>22</CC>
+      <PN>http://dev.apollo.sap.com/Apollo.Images/Casino/Categories/66x66/categories_TN_Mon-interieur_Equipement-cuisine--decoration.jpg</PN>
+      <PC>5</PC>
+    </CT>
+  </CTS>
+  <RC>0</RC>
+</BLS_GSPC>

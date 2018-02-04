@@ -1,0 +1,58 @@
+{
+  "BLS_GSPC": {
+    "CTS": {
+      "CT": [
+        {
+          "CN": "Breakfast Groceries",
+          "CId": "f2777741-67ad-4ed2-bc26-1903594eaed8",
+          "CC": "11",
+          "PN": "http://dev.apollo.sap.com/Apollo.Images/Casino/Categories/66x66/categories_TN_LEpicerie-Sucree_Ptit-Dej.jpg",
+          "PC": "28"
+        },
+        {
+          "CN": "Dairy",
+          "CId": "30d72389-83e9-423f-8a19-42e344898157",
+          "CC": "11",
+          "PN": "http://dev.apollo.sap.com/Apollo.Images/Casino/Categories/66x66/categories_TN_Le-Frais_Cremerie--Oeufs.jpg",
+          "PC": "10"
+        },
+        {
+          "CN": "Drinks",
+          "CId": "4e4c9958-755a-4c55-985a-6484989a3425",
+          "CC": "22",
+          "PN": "http://dev.apollo.sap.com/Apollo.Images/Casino/Categories/66x66/categories_TN_Les-Boissons_Sodas--Limonades.jpg",
+          "PC": "18"
+        },
+        {
+          "CN": "Frozen Foods",
+          "CId": "0b83afc4-d356-45e3-ac79-47a39c3acdb1",
+          "CC": "11",
+          "PN": "http://dev.apollo.sap.com/Apollo.Images/Casino/Categories/66x66/categories_TN_Le-Surgele_Legumes-Frites--Aromates.jpg",
+          "PC": "8"
+        },
+        {
+          "CN": "Grocery Staples",
+          "CId": "6e895108-1c2d-4a9f-aee3-9bf645daf889",
+          "CC": "11",
+          "PN": "http://dev.apollo.sap.com/Apollo.Images/Casino/Categories/66x66/categories_TN_LEpicerie-Salee_Pates-Purees--Legumes-secs.jpg",
+          "PC": "11"
+        },
+        {
+          "CN": "Health & Beauty",
+          "CId": "52c8479b-3266-4b97-87a9-22d577cf5dcb",
+          "CC": "22",
+          "PN": "http://dev.apollo.sap.com/Apollo.Images/Casino/Categories/66x66/categories_TN_Beaute--Soins_Pour-elle--Le-Bien-etre.jpg",
+          "PC": "25"
+        },
+        {
+          "CN": "My Home",
+          "CId": "dced2f93-f27b-4513-9e9f-39a9e8c2a115",
+          "CC": "22",
+          "PN": "http://dev.apollo.sap.com/Apollo.Images/Casino/Categories/66x66/categories_TN_Mon-interieur_Equipement-cuisine--decoration.jpg",
+          "PC": "5"
+        }
+      ]
+    },
+    "RC": "0"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "BLF_GSL": {
+    "SLIS": {
+      "SLI": [
+        {
+          "PId": "af3f5ff7-98da-4cfa-9fbc-15d52fa4c345",
+          "OfId": "00000000-0000-0000-0000-000000000000",
+          "SID": "815dfb69-0cb9-4b07-a843-6ca6d7d1d161",
+          "PC": "3117341654407",
+          "BN": "Peet's",
+          "PF": "COFFEES & DECAFS                                  ",
+          "PN": "Green Mountain Coffee Breakfast Blend K-Cups",
+          "PU": "http://dev.apollo.sap.com/Apollo.Images/Casino/Products/66x66/af3f5ff7-98da-4cfa-9fbc-15d52fa4c345.jpg",
+          "SW": "100",
+          "QT": "1",
+          "RP": "3.08",
+          "CS": "$",
+          "HP": "False",
+          "HS": "False",
+          "HBD": "False"
+        },
+        {
+          "PId": "7cc1c1e6-7ed5-43df-a836-e4a8c12a63b5",
+          "OfId": "1495cec5-387f-4921-b016-16dca920541f",
+          "SID": "815dfb69-0cb9-4b07-a843-6ca6d7d1d161",
+          "PC": "3033490260002",
+          "BN": "Yoplait",
+          "PF": "YOGURTS                                           ",
+          "PN": "Creamy Duo Yogurt (fruit) 16x100 gr",
+          "PU": "http://dev.apollo.sap.com/Apollo.Images/Casino/Products/66x66/7cc1c1e6-7ed5-43df-a836-e4a8c12a63b5.jpg",
+          "SW": "100",
+          "QT": "2",
+          "RP": "7.99",
+          "CS": "$",
+          "HP": "True",
+          "HS": "False",
+          "HBD": "True"
+        },
+        {
+          "PId": "f41f4963-f69f-4ae7-a2a4-d213317e2adf",
+          "OfId": "97a1e01e-c4fa-4248-9ba4-fc4a833ece46",
+          "SID": "815dfb69-0cb9-4b07-a843-6ca6d7d1d161",
+          "PC": "7622300234409",
+          "BN": "Starbucks Coffee",
+          "PF": "COFFEES & DECAFS                                  ",
+          "PN": "Starbucks VIA Ready Brew Instant Coffee Colombia Medium - 3 ct	",
+          "PU": "http://dev.apollo.sap.com/Apollo.Images/Casino/Products/66x66/f41f4963-f69f-4ae7-a2a4-d213317e2adf.jpg",
+          "SW": "100",
+          "QT": "1",
+          "RP": "2.62",
+          "CS": "$",
+          "HP": "True",
+          "HS": "False",
+          "HBD": "False"
+        },
+        {
+          "PId": "eb3797ed-301a-4a6b-ad0e-4609fdb00739",
+          "OfId": "00000000-0000-0000-0000-000000000000",
+          "SID": "815dfb69-0cb9-4b07-a843-6ca6d7d1d161",
+          "PC": "3147754032523",
+          "BN": "L'Oreal",
+          "PF": "MASCARA",
+          "PN": "Hypnose Precious Cells Mascara",
+          "PU": "http://dev.apollo.sap.com/Apollo.Images/Casino/Products/66x66/eb3797ed-301a-4a6b-ad0e-4609fdb00739.jpg",
+          "SW": "100",
+          "QT": "1",
+          "RP": "25.98",
+          "CS": "$",
+          "HP": "False",
+          "HS": "False",
+          "HBD": "False"
+        },
+        {
+          "PId": "d7851e3e-5135-4cf8-932e-af5cc06eb6bf",
+          "OfId": "00000000-0000-0000-0000-000000000000",
+          "SID": "815dfb69-0cb9-4b07-a843-6ca6d7d1d161",
+          "PC": "4006508200504",
+          "BN": "MELITTA",
+          "PF": "BREAKFAST TIME ",
+          "PN": "FLTRE ELECT+DET 1X4X80 200504",
+          "PU": "http://dev.apollo.sap.com/Apollo.Images/Casino/Products/66x66/d7851e3e-5135-4cf8-932e-af5cc06eb6bf.jpg",
+          "SW": "100",
+          "QT": "1",
+          "RP": "1.99",
+          "CS": "$",
+          "HP": "False",
+          "HS": "False",
+          "HBD": "False"
+        }
+      ]
+    }
+
+  }
+}
